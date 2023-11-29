@@ -1,0 +1,20 @@
+﻿  3semkursachView.cpp
+E:\proga\3semkursach\3semkursach\3semkursachView.cpp(472,22): warning C4552: "*": результат выражения не используется
+  (компиляция исходного файла "/3semkursachView.cpp")
+  
+E:\proga\3semkursach\3semkursach\3semkursachView.cpp(647,23): warning C4552: "*": результат выражения не используется
+  (компиляция исходного файла "/3semkursachView.cpp")
+  
+E:\proga\3semkursach\3semkursach\3semkursachView.cpp(727,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/3semkursachView.cpp")
+  
+E:\proga\3semkursach\3semkursach\3semkursachView.cpp(743,23): warning C4552: "*": результат выражения не используется
+  (компиляция исходного файла "/3semkursachView.cpp")
+  
+E:\proga\3semkursach\3semkursach\3semkursachView.cpp(659,26): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  (компиляция исходного файла "/3semkursachView.cpp")
+  
+E:\proga\3semkursach\3semkursach\3semkursachView.cpp(788,26): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  (компиляция исходного файла "/3semkursachView.cpp")
+  
+  3semkursach.vcxproj -> E:\proga\3semkursach\x64\Debug\3semkursach.exe
